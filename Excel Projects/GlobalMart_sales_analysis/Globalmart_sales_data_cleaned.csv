@@ -1,0 +1,203 @@
+Row ID,Order ID,Order Date,Ship Date,Ship Mode,Customer ID,Customer Name,Segment,Country,City,State,Postal Code,Region,Product ID,Category,Subcategory,Product Name,Sales
+1,ORD3877,15-07-2023,15-06-2023,Standard Class,CUST329,John Doe,Corporate,United States,Los Angeles,Illinois,10001,Central,PROD4169,Furniture,Phones,Printer,$ 150
+2,ORD2467,15-07-2023,15-07-2023,Standard Class,CUST349,John Doe,Corporate,United States,New York,California,10001,Central,PROD2110,Furniture,Chairs,Pen,$200
+3,ORD2043,12-05-2023,07-20-2023,Second Class,CUST813,John Doe,Corporate,United States,Houston,Texas,10001,West,PROD8805,Tech,Storage,Monitor,$200
+4,ORD9722,15-07-2023,15-06-2023,Same Day,CUST451,John Doe,Home Office,United States,New York,New York,90001,West,PROD8260,Furniture,Storage,Pen,$300.50
+5,ORD4316,12-06-2023,07-20-2023,Same Day,CUST717,John Doe,Home Office,United States,Chicago,California,90001,Central,PROD9583,Tech,Phones,Notebook,$200
+6,ORD1416,12-06-2023,07-20-2023,Second Class,CUST617,Michael Brown,Consumer,United States,Phoenix,Illinois,Unknown,West,PROD6594,Office Supplies,Phones,Phone,$50
+7,ORD7506,12-06-2023,07-20-2023,Standard Class,CUST149,John Doe,Consumer,United States,Chicago,New York,10001,East,PROD5976,Office Supplies,Tables,Printer,$50
+8,ORD5874,15-07-2023,07-20-2023,Same Day,CUST405,Michael Brown,Corporate,United States,New York,Arizona,Unknown,South,PROD6943,Tech,Storage,Printer,$ 150
+9,ORD7821,12-05-2023,07-20-2023,Unknown,CUST370,Michael Brown,Home Office,United States,Chicago,Texas,Unknown,West,PROD6931,Tech,Storage,Printer,$200
+10,ORD1185,12-06-2023,15-07-2023,Second Class,CUST140,John Doe,Consumer,United States,Phoenix,Illinois,10001,East,PROD9143,Office Supplies,Binders,Monitor,$200
+11,ORD4949,12-05-2023,15-06-2023,Unknown,CUST439,Jane Smith,Consumer,United States,Phoenix,Illinois,10001,Central,PROD9300,Furniture,Storage,Pen,$ 150
+12,ORD5357,12-06-2023,07-20-2023,Same Day,CUST594,Jane Smith,Home Office,United States,Los Angeles,Texas,10001,South,PROD4926,Office Supplies,Chairs,Monitor,$300.50
+13,ORD3115,15-07-2023,07-20-2023,Second Class,CUST743,Michael Brown,Corporate,United States,Chicago,Texas,90001,East,PROD2943,Office Supplies,Chairs,Desk,$ 150
+14,ORD7164,12-06-2023,07-20-2023,Same Day,CUST609,John Doe,Corporate,United States,Phoenix,New York,90001,West,PROD7638,Furniture,Binders,Pen,$ 150
+15,ORD7047,12-05-2023,07-20-2023,Same Day,CUST917,Jane Smith,Home Office,United States,Chicago,California,Unknown,Central,PROD6219,Office Supplies,Tables,Phone,$200
+16,ORD2164,15-07-2023,15-07-2023,Unknown,CUST867,Jane Smith,Home Office,United States,Chicago,California,10001,South,PROD6569,Furniture,Chairs,Chair,$50
+17,ORD2544,12-05-2023,07-20-2023,Unknown,CUST736,Jane Smith,Consumer,United States,Chicago,Texas,Unknown,South,PROD3345,Tech,Tables,Notebook,$50
+18,ORD1610,12-06-2023,15-06-2023,Standard Class,CUST550,John Doe,Consumer,United States,Houston,California,10001,East,PROD9540,Office Supplies,Chairs,Desk,$200
+19,ORD4008,12-06-2023,07-20-2023,First Class,CUST249,Michael Brown,Home Office,United States,Los Angeles,Texas,Unknown,East,PROD8409,Furniture,Storage,Printer,$50
+20,ORD9193,12-06-2023,07-20-2023,First Class,CUST770,John Doe,Corporate,United States,Phoenix,Texas,90001,Central,PROD1276,Furniture,Chairs,Phone,$200
+21,ORD4137,12-05-2023,15-06-2023,Standard Class,CUST667,Michael Brown,Corporate,United States,Los Angeles,California,Unknown,West,PROD8863,Office Supplies,Tables,Printer,$300.50
+22,ORD1977,12-06-2023,07-20-2023,Same Day,CUST223,John Doe,Corporate,United States,Houston,Illinois,90001,West,PROD5754,Furniture,Phones,Pen,$200
+23,ORD1075,12-06-2023,15-06-2023,Same Day,CUST609,Jane Smith,Home Office,United States,Phoenix,California,90001,Central,PROD3306,Technology,Phones,Phone,$200
+24,ORD1355,12-05-2023,15-07-2023,Second Class,CUST258,Jane Smith,Corporate,United States,Phoenix,Texas,10001,East,PROD6876,Office Supplies,Storage,Pen,$50
+25,ORD1761,12-05-2023,15-06-2023,First Class,CUST449,Jane Smith,Home Office,United States,Phoenix,Illinois,90001,South,PROD6926,Office Supplies,Phones,Phone,$300.50
+26,ORD7805,12-05-2023,15-07-2023,Unknown,CUST862,John Doe,Corporate,United States,New York,Arizona,10001,Central,PROD5345,Furniture,Binders,Chair,$300.50
+27,ORD8758,12-05-2023,15-06-2023,Standard Class,CUST378,John Doe,Corporate,United States,Chicago,Arizona,10001,East,PROD7908,Tech,Phones,Notebook,$ 150
+28,ORD3496,15-07-2023,15-06-2023,Unknown,CUST646,Jane Smith,Home Office,United States,Los Angeles,New York,90001,South,PROD3887,Furniture,Tables,Phone,$300.50
+29,ORD6902,12-05-2023,07-20-2023,First Class,CUST664,Michael Brown,Home Office,United States,Phoenix,Arizona,10001,South,PROD7244,Furniture,Storage,Chair,$ 150
+30,ORD1723,12-06-2023,15-07-2023,Unknown,CUST155,Michael Brown,Consumer,United States,Chicago,Illinois,Unknown,South,PROD9774,Furniture,Phones,Monitor,$200
+31,ORD6222,12-06-2023,15-06-2023,First Class,CUST440,John Doe,Corporate,United States,Los Angeles,Texas,90001,West,PROD2930,Furniture,Chairs,Phone,$200
+32,ORD1603,15-07-2023,15-06-2023,Second Class,CUST263,John Doe,Consumer,United States,Phoenix,California,10001,West,PROD3362,Technology,Chairs,Phone,$300.50
+33,ORD7811,15-07-2023,15-06-2023,Same Day,CUST476,John Doe,Corporate,United States,Chicago,Illinois,10001,Central,PROD9740,Office Supplies,Tables,Laptop,$50
+34,ORD2287,12-05-2023,15-07-2023,First Class,CUST141,Jane Smith,Home Office,United States,Chicago,Illinois,Unknown,East,PROD2414,Office Supplies,Phones,Pen,$200
+35,ORD4758,15-07-2023,15-06-2023,Second Class,CUST250,Michael Brown,Home Office,United States,Phoenix,Texas,10001,East,PROD2315,Tech,Storage,Laptop,$ 150
+36,ORD9976,12-06-2023,15-06-2023,Unknown,CUST551,Jane Smith,Consumer,United States,Houston,Illinois,Unknown,West,PROD1280,Furniture,Phones,Chair,$200
+37,ORD7624,15-07-2023,15-07-2023,First Class,CUST527,Jane Smith,Consumer,United States,Los Angeles,California,90001,West,PROD4303,Tech,Chairs,Phone,$200
+38,ORD6917,12-05-2023,07-20-2023,First Class,CUST838,Michael Brown,Corporate,United States,Houston,California,90001,East,PROD8665,Office Supplies,Chairs,Laptop,$200
+39,ORD4723,15-07-2023,15-06-2023,First Class,CUST901,Michael Brown,Corporate,United States,New York,Texas,10001,South,PROD7097,Office Supplies,Phones,Laptop,$200
+40,ORD4224,12-06-2023,07-20-2023,Second Class,CUST180,Michael Brown,Corporate,United States,Phoenix,Illinois,10001,Central,PROD8392,Technology,Chairs,Pen,$50
+41,ORD2934,12-06-2023,15-07-2023,Standard Class,CUST287,Michael Brown,Corporate,United States,Phoenix,New York,10001,Central,PROD1296,Furniture,Tables,Pen,$ 150
+42,ORD2091,12-05-2023,07-20-2023,First Class,CUST823,John Doe,Consumer,United States,Los Angeles,Illinois,10001,East,PROD6651,Office Supplies,Phones,Desk,$50
+43,ORD2548,15-07-2023,15-07-2023,Unknown,CUST675,Michael Brown,Corporate,United States,Houston,California,90001,Central,PROD8410,Tech,Tables,Desk,$50
+44,ORD7146,15-07-2023,07-20-2023,Unknown,CUST881,Michael Brown,Consumer,United States,New York,New York,90001,West,PROD8396,Tech,Binders,Notebook,$50
+45,ORD5850,12-06-2023,15-07-2023,First Class,CUST981,John Doe,Home Office,United States,Phoenix,California,Unknown,South,PROD4394,Furniture,Phones,Printer,$ 150
+46,ORD1187,12-05-2023,15-06-2023,Second Class,CUST675,John Doe,Home Office,United States,Phoenix,California,10001,South,PROD6479,Technology,Binders,Desk,$ 150
+47,ORD8675,12-05-2023,15-07-2023,Standard Class,CUST420,Michael Brown,Home Office,United States,Chicago,Arizona,10001,Central,PROD2325,Technology,Chairs,Pen,$200
+48,ORD7632,12-06-2023,15-06-2023,Unknown,CUST979,Jane Smith,Corporate,United States,Phoenix,California,90001,Central,PROD3365,Technology,Phones,Desk,$200
+49,ORD5022,12-05-2023,15-07-2023,Second Class,CUST506,Jane Smith,Consumer,United States,Chicago,Arizona,90001,South,PROD5860,Tech,Binders,Notebook,$ 150
+50,ORD9076,15-07-2023,07-20-2023,Second Class,CUST151,John Doe,Home Office,United States,Phoenix,California,10001,Central,PROD7284,Tech,Binders,Laptop,$50
+51,ORD5497,12-05-2023,15-06-2023,First Class,CUST973,Jane Smith,Home Office,United States,Houston,Texas,90001,Central,PROD3749,Technology,Phones,Phone,$200
+52,ORD7524,12-05-2023,07-20-2023,Standard Class,CUST134,Michael Brown,Home Office,United States,Los Angeles,California,90001,South,PROD6679,Office Supplies,Tables,Desk,$300.50
+53,ORD1671,15-07-2023,15-07-2023,Unknown,CUST770,Michael Brown,Corporate,United States,Houston,California,10001,Central,PROD6239,Technology,Tables,Phone,$200
+54,ORD3635,12-06-2023,15-06-2023,Standard Class,CUST309,John Doe,Consumer,United States,Houston,Texas,90001,Central,PROD4630,Technology,Tables,Printer,$300.50
+55,ORD2245,15-07-2023,15-06-2023,Standard Class,CUST290,John Doe,Consumer,United States,Chicago,Illinois,10001,East,PROD6887,Furniture,Storage,Phone,$300.50
+56,ORD6991,12-06-2023,15-07-2023,First Class,CUST375,Jane Smith,Home Office,United States,Los Angeles,Texas,90001,West,PROD3045,Office Supplies,Tables,Phone,$50
+57,ORD4038,15-07-2023,07-20-2023,Second Class,CUST570,Jane Smith,Home Office,United States,Chicago,Arizona,Unknown,West,PROD7062,Office Supplies,Chairs,Printer,$300.50
+58,ORD1977,15-07-2023,15-06-2023,Second Class,CUST869,Michael Brown,Home Office,United States,Chicago,New York,Unknown,Central,PROD8716,Furniture,Tables,Laptop,$200
+59,ORD7320,15-07-2023,07-20-2023,Unknown,CUST230,John Doe,Consumer,United States,New York,California,90001,South,PROD6277,Technology,Chairs,Phone,$300.50
+60,ORD3129,12-05-2023,15-07-2023,Unknown,CUST209,John Doe,Home Office,United States,Chicago,Illinois,10001,Central,PROD6028,Office Supplies,Storage,Phone,$300.50
+61,ORD6960,12-05-2023,15-06-2023,Second Class,CUST170,John Doe,Consumer,United States,Chicago,New York,Unknown,East,PROD1687,Technology,Tables,Chair,$300.50
+62,ORD2872,12-06-2023,07-20-2023,Unknown,CUST130,John Doe,Consumer,United States,New York,California,90001,Central,PROD8000,Technology,Storage,Pen,$200
+63,ORD6433,12-06-2023,15-06-2023,Second Class,CUST779,Jane Smith,Corporate,United States,Los Angeles,California,Unknown,Central,PROD2880,Furniture,Tables,Phone,$ 150
+64,ORD9836,12-06-2023,15-06-2023,Standard Class,CUST948,Jane Smith,Home Office,United States,New York,Texas,90001,South,PROD7539,Furniture,Binders,Desk,$300.50
+65,ORD3655,12-05-2023,07-20-2023,Same Day,CUST831,Jane Smith,Home Office,United States,New York,Texas,90001,West,PROD4790,Furniture,Binders,Monitor,$300.50
+66,ORD2906,12-06-2023,15-07-2023,Standard Class,CUST259,Jane Smith,Home Office,United States,Chicago,California,10001,Central,PROD3339,Furniture,Tables,Phone,$ 150
+67,ORD5230,15-07-2023,15-06-2023,First Class,CUST342,Jane Smith,Home Office,United States,Phoenix,Texas,90001,West,PROD2211,Tech,Tables,Monitor,$ 150
+68,ORD6820,12-06-2023,15-06-2023,Same Day,CUST333,John Doe,Corporate,United States,Los Angeles,California,Unknown,West,PROD8145,Technology,Chairs,Printer,$200
+69,ORD2255,15-07-2023,15-06-2023,Standard Class,CUST723,Jane Smith,Corporate,United States,Houston,California,10001,West,PROD3980,Office Supplies,Binders,Laptop,$300.50
+70,ORD8943,12-06-2023,07-20-2023,Second Class,CUST478,John Doe,Consumer,United States,New York,Texas,90001,South,PROD7789,Tech,Chairs,Monitor,$ 150
+71,ORD1291,15-07-2023,07-20-2023,Unknown,CUST368,Michael Brown,Home Office,United States,Los Angeles,Texas,90001,East,PROD1184,Furniture,Phones,Phone,$200
+72,ORD2149,12-05-2023,15-07-2023,Standard Class,CUST493,Michael Brown,Consumer,United States,Phoenix,Arizona,90001,West,PROD6758,Office Supplies,Phones,Desk,$50
+73,ORD3209,15-07-2023,15-06-2023,Same Day,CUST357,Michael Brown,Corporate,United States,New York,Texas,10001,West,PROD7351,Furniture,Binders,Desk,$50
+74,ORD1283,15-07-2023,15-06-2023,Second Class,CUST486,Michael Brown,Corporate,United States,Los Angeles,Illinois,10001,South,PROD9183,Office Supplies,Binders,Desk,$ 150
+75,ORD9840,12-05-2023,15-07-2023,Same Day,CUST931,Michael Brown,Consumer,United States,Phoenix,Arizona,Unknown,South,PROD7928,Tech,Binders,Laptop,$200
+76,ORD3606,12-05-2023,15-07-2023,Unknown,CUST415,Michael Brown,Consumer,United States,Houston,Illinois,90001,Central,PROD6995,Furniture,Binders,Pen,$300.50
+77,ORD8300,15-07-2023,15-07-2023,Standard Class,CUST967,Michael Brown,Corporate,United States,Phoenix,New York,Unknown,Central,PROD3820,Technology,Binders,Monitor,$ 150
+78,ORD7658,15-07-2023,15-07-2023,First Class,CUST599,Jane Smith,Corporate,United States,Los Angeles,California,Unknown,East,PROD4991,Office Supplies,Phones,Phone,$300.50
+79,ORD4180,12-06-2023,07-20-2023,First Class,CUST631,John Doe,Home Office,United States,Los Angeles,California,90001,East,PROD9718,Furniture,Chairs,Pen,$300.50
+80,ORD8858,12-05-2023,07-20-2023,First Class,CUST845,John Doe,Home Office,United States,Los Angeles,California,90001,West,PROD5076,Technology,Storage,Monitor,$50
+81,ORD1405,12-06-2023,15-07-2023,Standard Class,CUST235,John Doe,Corporate,United States,Los Angeles,New York,90001,East,PROD1245,Furniture,Tables,Notebook,$200
+82,ORD2533,15-07-2023,15-06-2023,First Class,CUST923,Jane Smith,Consumer,United States,Chicago,New York,Unknown,Central,PROD7404,Furniture,Tables,Printer,$200
+83,ORD3809,12-06-2023,07-20-2023,Unknown,CUST792,John Doe,Corporate,United States,Phoenix,Texas,90001,South,PROD9242,Furniture,Chairs,Laptop,$300.50
+84,ORD3719,12-05-2023,07-20-2023,Second Class,CUST208,Michael Brown,Corporate,United States,Los Angeles,Texas,Unknown,Central,PROD3675,Furniture,Phones,Phone,$200
+85,ORD8077,15-07-2023,15-06-2023,Second Class,CUST107,Jane Smith,Consumer,United States,Chicago,New York,Unknown,South,PROD3451,Technology,Chairs,Printer,$200
+86,ORD5679,15-07-2023,15-07-2023,First Class,CUST222,John Doe,Home Office,United States,Chicago,Illinois,10001,Central,PROD4226,Furniture,Binders,Notebook,$50
+87,ORD5459,12-05-2023,07-20-2023,Standard Class,CUST451,Michael Brown,Corporate,United States,Phoenix,Texas,Unknown,South,PROD7139,Furniture,Storage,Phone,$ 150
+88,ORD8068,15-07-2023,15-07-2023,Same Day,CUST926,John Doe,Home Office,United States,Los Angeles,New York,10001,South,PROD5574,Technology,Chairs,Desk,$300.50
+89,ORD5625,15-07-2023,15-07-2023,First Class,CUST520,Michael Brown,Home Office,United States,New York,Texas,Unknown,South,PROD2647,Technology,Binders,Notebook,$300.50
+90,ORD2318,12-06-2023,07-20-2023,Second Class,CUST550,John Doe,Corporate,United States,Chicago,New York,10001,East,PROD7229,Furniture,Chairs,Phone,$ 150
+91,ORD9224,12-06-2023,07-20-2023,Same Day,CUST301,Jane Smith,Consumer,United States,Los Angeles,Texas,Unknown,East,PROD9422,Technology,Binders,Desk,$200
+92,ORD1458,12-06-2023,07-20-2023,Second Class,CUST935,Michael Brown,Corporate,United States,Houston,California,90001,South,PROD7429,Furniture,Binders,Notebook,$300.50
+93,ORD8858,12-05-2023,15-06-2023,Unknown,CUST800,Michael Brown,Consumer,United States,Chicago,New York,90001,East,PROD5015,Tech,Storage,Printer,$ 150
+94,ORD6619,12-05-2023,15-06-2023,Standard Class,CUST622,Michael Brown,Corporate,United States,New York,Arizona,90001,South,PROD5545,Office Supplies,Tables,Laptop,$ 150
+95,ORD8710,15-07-2023,15-06-2023,Same Day,CUST460,Jane Smith,Home Office,United States,Los Angeles,California,Unknown,South,PROD3914,Furniture,Chairs,Notebook,$50
+96,ORD1855,15-07-2023,15-07-2023,Same Day,CUST154,John Doe,Corporate,United States,New York,Arizona,90001,West,PROD9926,Office Supplies,Chairs,Laptop,$200
+97,ORD3061,15-07-2023,15-06-2023,Same Day,CUST974,John Doe,Consumer,United States,Houston,California,10001,Central,PROD1860,Office Supplies,Binders,Printer,$ 150
+98,ORD7204,12-06-2023,15-06-2023,Standard Class,CUST591,Jane Smith,Consumer,United States,Chicago,California,10001,East,PROD1425,Furniture,Storage,Phone,$200
+99,ORD2546,15-07-2023,07-20-2023,Second Class,CUST487,Michael Brown,Home Office,United States,New York,Illinois,10001,West,PROD4070,Furniture,Phones,Printer,$300.50
+100,ORD8331,15-07-2023,07-20-2023,Unknown,CUST289,Jane Smith,Corporate,United States,Phoenix,Illinois,Unknown,Central,PROD1319,Furniture,Chairs,Laptop,$300.50
+101,ORD1520,15-07-2023,15-07-2023,Second Class,CUST694,Jane Smith,Consumer,United States,Los Angeles,Illinois,10001,Central,PROD4773,Technology,Chairs,Phone,$300.50
+102,ORD4109,15-07-2023,15-07-2023,Second Class,CUST585,Jane Smith,Home Office,United States,Phoenix,California,10001,West,PROD8061,Tech,Chairs,Pen,$200
+103,ORD6734,15-07-2023,15-06-2023,Same Day,CUST202,Jane Smith,Consumer,United States,Los Angeles,New York,Unknown,South,PROD4756,Office Supplies,Storage,Phone,$ 150
+104,ORD5596,12-05-2023,07-20-2023,Standard Class,CUST207,John Doe,Corporate,United States,Los Angeles,Illinois,Unknown,Central,PROD3508,Tech,Phones,Laptop,$ 150
+105,ORD2445,15-07-2023,15-07-2023,Unknown,CUST452,John Doe,Corporate,United States,Phoenix,Texas,Unknown,Central,PROD3001,Furniture,Tables,Desk,$200
+106,ORD6927,12-06-2023,15-06-2023,Second Class,CUST296,Michael Brown,Corporate,United States,Los Angeles,New York,90001,South,PROD2060,Furniture,Binders,Notebook,$50
+107,ORD5402,15-07-2023,15-07-2023,First Class,CUST906,Jane Smith,Home Office,United States,Chicago,New York,10001,Central,PROD1898,Tech,Storage,Desk,$50
+108,ORD3222,15-07-2023,07-20-2023,Second Class,CUST102,Jane Smith,Home Office,United States,Phoenix,New York,Unknown,South,PROD2652,Furniture,Binders,Desk,$50
+109,ORD1827,12-06-2023,07-20-2023,First Class,CUST366,Jane Smith,Corporate,United States,Chicago,California,90001,East,PROD3569,Tech,Storage,Notebook,$300.50
+110,ORD2907,12-05-2023,15-07-2023,Second Class,CUST475,Michael Brown,Corporate,United States,Phoenix,Illinois,90001,Central,PROD7192,Tech,Chairs,Notebook,$50
+111,ORD2368,12-05-2023,15-07-2023,Same Day,CUST928,John Doe,Consumer,United States,New York,Illinois,10001,East,PROD1636,Furniture,Phones,Desk,$ 150
+112,ORD6135,15-07-2023,15-06-2023,Second Class,CUST220,Michael Brown,Corporate,United States,Phoenix,California,Unknown,South,PROD2274,Tech,Chairs,Printer,$50
+113,ORD3383,12-06-2023,15-07-2023,Same Day,CUST664,John Doe,Consumer,United States,Phoenix,Texas,10001,Central,PROD6230,Office Supplies,Phones,Printer,$300.50
+114,ORD1036,12-06-2023,07-20-2023,Standard Class,CUST377,Michael Brown,Home Office,United States,New York,California,Unknown,South,PROD1009,Furniture,Storage,Phone,$300.50
+115,ORD6318,15-07-2023,15-06-2023,Second Class,CUST217,John Doe,Consumer,United States,Phoenix,New York,90001,East,PROD7155,Office Supplies,Chairs,Chair,$300.50
+116,ORD7880,12-06-2023,15-07-2023,Second Class,CUST826,John Doe,Home Office,United States,Houston,New York,90001,West,PROD5009,Furniture,Binders,Chair,$200
+117,ORD9370,15-07-2023,15-06-2023,Unknown,CUST751,John Doe,Corporate,United States,Houston,New York,10001,West,PROD3216,Furniture,Chairs,Monitor,$ 150
+118,ORD4126,15-07-2023,15-06-2023,Unknown,CUST503,John Doe,Home Office,United States,Chicago,New York,Unknown,South,PROD4377,Technology,Chairs,Phone,$50
+119,ORD4729,15-07-2023,07-20-2023,Same Day,CUST394,John Doe,Home Office,United States,Los Angeles,Illinois,90001,South,PROD1891,Furniture,Binders,Pen,$200
+120,ORD6323,12-06-2023,15-07-2023,Standard Class,CUST874,Michael Brown,Corporate,United States,Chicago,Texas,90001,Central,PROD7741,Tech,Tables,Desk,$ 150
+121,ORD5535,12-05-2023,15-07-2023,Second Class,CUST933,Michael Brown,Home Office,United States,Los Angeles,Illinois,10001,East,PROD6440,Office Supplies,Tables,Desk,$200
+122,ORD5112,12-05-2023,07-20-2023,Unknown,CUST506,Michael Brown,Consumer,United States,New York,Illinois,90001,East,PROD1660,Furniture,Chairs,Monitor,$50
+123,ORD8504,15-07-2023,15-06-2023,Standard Class,CUST685,John Doe,Consumer,United States,Los Angeles,New York,Unknown,East,PROD5361,Office Supplies,Storage,Laptop,$200
+124,ORD6166,12-06-2023,15-06-2023,Same Day,CUST377,John Doe,Home Office,United States,Houston,Texas,90001,South,PROD4808,Technology,Phones,Pen,$200
+125,ORD1771,15-07-2023,15-06-2023,Same Day,CUST930,Jane Smith,Consumer,United States,Houston,California,90001,South,PROD9406,Technology,Binders,Printer,$50
+126,ORD8511,12-05-2023,07-20-2023,Second Class,CUST834,Jane Smith,Home Office,United States,Los Angeles,California,90001,East,PROD5919,Furniture,Storage,Chair,$300.50
+127,ORD8692,12-06-2023,15-07-2023,First Class,CUST334,Michael Brown,Consumer,United States,Los Angeles,Illinois,Unknown,Central,PROD1989,Furniture,Tables,Printer,$200
+128,ORD5619,12-06-2023,07-20-2023,Same Day,CUST437,Jane Smith,Home Office,United States,Houston,New York,90001,South,PROD6440,Technology,Tables,Phone,$ 150
+129,ORD5377,15-07-2023,15-07-2023,Unknown,CUST252,John Doe,Home Office,United States,New York,Texas,10001,East,PROD8674,Furniture,Phones,Phone,$50
+130,ORD4122,15-07-2023,15-06-2023,First Class,CUST212,John Doe,Corporate,United States,Phoenix,California,10001,West,PROD2221,Technology,Tables,Phone,$ 150
+131,ORD7254,12-05-2023,15-06-2023,First Class,CUST813,John Doe,Home Office,United States,Houston,Arizona,90001,West,PROD7679,Office Supplies,Tables,Laptop,$200
+132,ORD3588,12-06-2023,07-20-2023,Standard Class,CUST967,John Doe,Corporate,United States,Houston,Arizona,90001,West,PROD8227,Office Supplies,Phones,Chair,$200
+133,ORD8219,12-06-2023,07-20-2023,Standard Class,CUST326,Michael Brown,Home Office,United States,Phoenix,Illinois,90001,Central,PROD2983,Furniture,Storage,Phone,$300.50
+134,ORD6270,12-05-2023,07-20-2023,Same Day,CUST895,John Doe,Consumer,United States,Houston,Illinois,Unknown,West,PROD2617,Technology,Storage,Desk,$ 150
+135,ORD7564,12-05-2023,07-20-2023,First Class,CUST712,John Doe,Consumer,United States,New York,Illinois,90001,Central,PROD8617,Office Supplies,Binders,Printer,$ 150
+136,ORD1972,12-06-2023,15-07-2023,Standard Class,CUST766,Jane Smith,Corporate,United States,Houston,California,Unknown,South,PROD8973,Furniture,Tables,Monitor,$200
+137,ORD1136,12-06-2023,07-20-2023,Same Day,CUST557,Jane Smith,Home Office,United States,Los Angeles,Arizona,Unknown,Central,PROD4950,Furniture,Phones,Phone,$ 150
+138,ORD6069,12-06-2023,15-07-2023,First Class,CUST155,Jane Smith,Corporate,United States,Phoenix,New York,90001,South,PROD6320,Technology,Tables,Laptop,$50
+139,ORD2139,15-07-2023,15-06-2023,Standard Class,CUST665,John Doe,Corporate,United States,Houston,New York,90001,West,PROD9220,Tech,Chairs,Phone,$ 150
+140,ORD5191,12-05-2023,15-06-2023,Standard Class,CUST188,Michael Brown,Consumer,United States,Houston,California,90001,East,PROD1611,Office Supplies,Binders,Monitor,$50
+141,ORD5589,12-06-2023,07-20-2023,Unknown,CUST505,John Doe,Consumer,United States,Houston,Illinois,Unknown,Central,PROD1498,Technology,Phones,Notebook,$ 150
+142,ORD9935,15-07-2023,07-20-2023,Second Class,CUST274,Michael Brown,Consumer,United States,Houston,Texas,90001,East,PROD4380,Tech,Binders,Pen,$300.50
+143,ORD6764,12-05-2023,15-07-2023,Same Day,CUST980,Michael Brown,Consumer,United States,New York,Illinois,90001,West,PROD8239,Furniture,Phones,Phone,$ 150
+144,ORD9744,15-07-2023,15-07-2023,Same Day,CUST213,Jane Smith,Home Office,United States,New York,Texas,10001,East,PROD3407,Furniture,Phones,Notebook,$300.50
+145,ORD7910,12-06-2023,07-20-2023,Second Class,CUST230,John Doe,Consumer,United States,Los Angeles,California,10001,South,PROD6203,Technology,Chairs,Monitor,$300.50
+146,ORD6409,15-07-2023,15-06-2023,Same Day,CUST439,John Doe,Consumer,United States,Chicago,California,Unknown,Central,PROD2483,Furniture,Chairs,Monitor,$300.50
+147,ORD8403,12-05-2023,15-07-2023,Unknown,CUST930,Jane Smith,Corporate,United States,Chicago,New York,10001,East,PROD8613,Furniture,Storage,Desk,$200
+148,ORD8929,15-07-2023,07-20-2023,Unknown,CUST745,John Doe,Home Office,United States,Phoenix,Illinois,10001,East,PROD1772,Furniture,Chairs,Chair,$50
+149,ORD7964,12-06-2023,15-06-2023,Standard Class,CUST297,Jane Smith,Home Office,United States,Houston,New York,10001,Central,PROD9247,Furniture,Chairs,Desk,$ 150
+150,ORD8653,15-07-2023,07-20-2023,Second Class,CUST666,Jane Smith,Corporate,United States,New York,California,10001,East,PROD2972,Office Supplies,Storage,Notebook,$ 150
+151,ORD4028,12-06-2023,15-06-2023,Unknown,CUST940,Michael Brown,Consumer,United States,Los Angeles,Texas,10001,South,PROD5233,Furniture,Chairs,Notebook,$300.50
+152,ORD8841,15-07-2023,15-07-2023,Same Day,CUST406,Michael Brown,Consumer,United States,Phoenix,California,90001,Central,PROD5445,Furniture,Tables,Printer,$200
+153,ORD5534,12-05-2023,15-06-2023,Same Day,CUST750,Michael Brown,Home Office,United States,Phoenix,California,10001,Central,PROD1773,Furniture,Binders,Printer,$300.50
+154,ORD7047,15-07-2023,15-07-2023,Standard Class,CUST966,Michael Brown,Consumer,United States,Houston,Illinois,10001,East,PROD7335,Office Supplies,Chairs,Desk,$ 150
+155,ORD4391,12-06-2023,15-06-2023,Standard Class,CUST695,John Doe,Home Office,United States,Houston,California,Unknown,Central,PROD1762,Furniture,Binders,Phone,$300.50
+156,ORD6072,15-07-2023,15-07-2023,Second Class,CUST874,Jane Smith,Corporate,United States,Chicago,New York,90001,East,PROD6962,Office Supplies,Tables,Printer,$ 150
+157,ORD9199,12-06-2023,15-06-2023,Second Class,CUST600,Michael Brown,Corporate,United States,Chicago,Arizona,90001,West,PROD7561,Technology,Phones,Desk,$300.50
+158,ORD2068,12-05-2023,15-07-2023,Second Class,CUST807,John Doe,Corporate,United States,Chicago,California,10001,East,PROD4319,Office Supplies,Storage,Laptop,$50
+159,ORD1952,15-07-2023,15-06-2023,Second Class,CUST532,Jane Smith,Corporate,United States,Phoenix,Illinois,Unknown,West,PROD8018,Tech,Tables,Chair,$50
+160,ORD6467,12-06-2023,15-06-2023,Standard Class,CUST704,Jane Smith,Consumer,United States,New York,Illinois,10001,South,PROD1064,Furniture,Tables,Printer,$ 150
+161,ORD7285,12-05-2023,15-07-2023,First Class,CUST270,John Doe,Consumer,United States,New York,California,Unknown,West,PROD6006,Technology,Phones,Pen,$300.50
+162,ORD1953,12-06-2023,15-07-2023,Second Class,CUST161,Jane Smith,Home Office,United States,Los Angeles,Arizona,10001,South,PROD3121,Office Supplies,Tables,Chair,$300.50
+163,ORD7465,15-07-2023,15-06-2023,Second Class,CUST383,John Doe,Home Office,United States,Phoenix,California,Unknown,West,PROD1246,Tech,Chairs,Desk,$200
+164,ORD1878,12-05-2023,15-07-2023,Unknown,CUST694,John Doe,Corporate,United States,New York,Illinois,10001,West,PROD1331,Tech,Binders,Notebook,$300.50
+165,ORD1402,15-07-2023,07-20-2023,Unknown,CUST114,Michael Brown,Corporate,United States,Houston,Arizona,90001,Central,PROD8271,Furniture,Chairs,Notebook,$50
+166,ORD2916,12-05-2023,07-20-2023,Second Class,CUST739,Michael Brown,Corporate,United States,Chicago,Arizona,10001,East,PROD9866,Technology,Binders,Chair,$200
+167,ORD6549,15-07-2023,15-07-2023,Same Day,CUST373,Jane Smith,Home Office,United States,Chicago,Illinois,90001,Central,PROD8301,Technology,Phones,Phone,$200
+168,ORD5185,12-05-2023,15-06-2023,Standard Class,CUST910,Michael Brown,Corporate,United States,Chicago,New York,10001,West,PROD1977,Furniture,Binders,Chair,$ 150
+169,ORD1264,15-07-2023,15-06-2023,First Class,CUST171,Michael Brown,Corporate,United States,Houston,New York,Unknown,South,PROD1902,Office Supplies,Chairs,Desk,$ 150
+170,ORD3133,15-07-2023,15-07-2023,Unknown,CUST641,Michael Brown,Consumer,United States,Phoenix,Illinois,90001,West,PROD2936,Tech,Tables,Phone,$50
+171,ORD4684,12-05-2023,07-20-2023,First Class,CUST562,Jane Smith,Home Office,United States,Los Angeles,California,10001,South,PROD9685,Technology,Binders,Pen,$50
+172,ORD4239,12-05-2023,07-20-2023,Unknown,CUST560,Jane Smith,Consumer,United States,Los Angeles,Arizona,Unknown,Central,PROD9362,Office Supplies,Phones,Chair,$50
+173,ORD2378,15-07-2023,07-20-2023,Same Day,CUST590,Michael Brown,Home Office,United States,Los Angeles,Illinois,10001,South,PROD2264,Furniture,Phones,Chair,$200
+174,ORD3272,12-06-2023,07-20-2023,Same Day,CUST739,Michael Brown,Home Office,United States,New York,Texas,Unknown,East,PROD3666,Furniture,Binders,Desk,$200
+175,ORD3685,15-07-2023,15-07-2023,Unknown,CUST368,John Doe,Home Office,United States,New York,Texas,10001,South,PROD6853,Technology,Binders,Notebook,$300.50
+176,ORD8421,15-07-2023,15-07-2023,Unknown,CUST939,Michael Brown,Corporate,United States,New York,Arizona,Unknown,South,PROD5907,Technology,Phones,Phone,$ 150
+177,ORD8848,12-05-2023,15-06-2023,Second Class,CUST480,Jane Smith,Consumer,United States,Houston,Arizona,90001,West,PROD6864,Technology,Phones,Notebook,$50
+178,ORD9284,12-05-2023,15-07-2023,Standard Class,CUST255,Jane Smith,Home Office,United States,Chicago,California,10001,Central,PROD7812,Technology,Storage,Printer,$50
+179,ORD9001,12-06-2023,07-20-2023,Standard Class,CUST569,John Doe,Consumer,United States,Los Angeles,Illinois,90001,South,PROD2106,Office Supplies,Phones,Desk,$ 150
+180,ORD7896,12-05-2023,15-07-2023,Second Class,CUST374,John Doe,Corporate,United States,Houston,Texas,10001,South,PROD2138,Furniture,Storage,Desk,$300.50
+181,ORD6080,15-07-2023,07-20-2023,Unknown,CUST659,Jane Smith,Home Office,United States,Los Angeles,Arizona,90001,South,PROD5709,Tech,Storage,Monitor,$300.50
+182,ORD9831,12-05-2023,15-07-2023,Unknown,CUST968,Michael Brown,Corporate,United States,New York,Arizona,10001,Central,PROD2314,Tech,Binders,Notebook,$ 150
+183,ORD6828,15-07-2023,15-07-2023,Unknown,CUST214,Michael Brown,Consumer,United States,Los Angeles,Illinois,90001,West,PROD7387,Technology,Tables,Laptop,$300.50
+184,ORD5735,12-06-2023,15-06-2023,First Class,CUST584,Jane Smith,Corporate,United States,New York,California,10001,West,PROD8134,Tech,Binders,Notebook,$200
+185,ORD5321,12-05-2023,15-07-2023,Unknown,CUST414,John Doe,Corporate,United States,Phoenix,Arizona,10001,South,PROD6710,Technology,Phones,Pen,$200
+186,ORD1173,12-05-2023,15-07-2023,Unknown,CUST130,John Doe,Consumer,United States,Houston,Texas,Unknown,East,PROD4273,Tech,Chairs,Laptop,$200
+187,ORD4929,12-05-2023,07-20-2023,First Class,CUST133,John Doe,Consumer,United States,New York,Texas,Unknown,West,PROD9034,Furniture,Chairs,Printer,$200
+188,ORD5039,12-06-2023,15-07-2023,Same Day,CUST453,John Doe,Home Office,United States,Los Angeles,California,90001,East,PROD1470,Tech,Tables,Notebook,$ 150
+189,ORD2941,12-05-2023,15-07-2023,Unknown,CUST122,Jane Smith,Consumer,United States,Houston,California,10001,West,PROD5577,Furniture,Tables,Monitor,$200
+190,ORD4432,12-06-2023,15-07-2023,Unknown,CUST639,Jane Smith,Corporate,United States,Los Angeles,California,10001,West,PROD5916,Furniture,Storage,Laptop,$200
+191,ORD8209,12-06-2023,15-06-2023,Same Day,CUST184,Jane Smith,Home Office,United States,Phoenix,Illinois,Unknown,East,PROD5239,Office Supplies,Phones,Chair,$300.50
+192,ORD8427,12-05-2023,07-20-2023,Second Class,CUST248,John Doe,Consumer,United States,New York,Arizona,90001,South,PROD1288,Tech,Phones,Desk,$ 150
+193,ORD1032,12-05-2023,15-07-2023,Unknown,CUST835,John Doe,Corporate,United States,Phoenix,Texas,10001,Central,PROD6002,Furniture,Storage,Notebook,$ 150
+194,ORD5608,15-07-2023,15-06-2023,Second Class,CUST477,John Doe,Home Office,United States,New York,Illinois,90001,West,PROD9618,Technology,Tables,Pen,$50
+195,ORD5390,15-07-2023,15-07-2023,Standard Class,CUST362,Michael Brown,Consumer,United States,Los Angeles,California,Unknown,South,PROD1157,Tech,Tables,Phone,$50
+196,ORD3937,12-05-2023,07-20-2023,Second Class,CUST729,Michael Brown,Home Office,United States,Los Angeles,New York,90001,East,PROD5932,Furniture,Binders,Desk,$300.50
+197,ORD3676,15-07-2023,15-06-2023,Same Day,CUST125,Michael Brown,Corporate,United States,New York,Texas,90001,West,PROD6351,Tech,Binders,Notebook,$200
+198,ORD1077,12-05-2023,15-06-2023,First Class,CUST692,John Doe,Consumer,United States,Los Angeles,Texas,Unknown,Central,PROD7227,Furniture,Storage,Pen,$ 150
+199,ORD7421,12-05-2023,07-20-2023,First Class,CUST827,Jane Smith,Consumer,United States,Houston,Texas,Unknown,East,PROD3672,Furniture,Chairs,Monitor,$200
+200,ORD8132,12-05-2023,15-06-2023,Same Day,CUST543,Jane Smith,Home Office,United States,Los Angeles,Arizona,10001,West,PROD9796,Tech,Tables,Chair,$200
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
